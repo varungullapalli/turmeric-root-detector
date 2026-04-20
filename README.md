@@ -1,2 +1,2 @@
 # turmeric-root-detector
-Computer Vision Model detecting turmeric root and determining whether or not the turmeric root is adulterated with Pb
+Computer Vision Model detecting whether or not a turmeric root is adulterated with Pb
